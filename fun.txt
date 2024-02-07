@@ -4,22 +4,15 @@ Rating:  Bad!
 
 
 
----
-What's the worst part about eating a clock? It's time-consuming...
-
-Rating: 
-
----
-
 Q.  Doctor, how many autopsies have you peformed on dead people?
 A.  All my autopsies have been performed on dead people.
 
-Rating: 
+Rating: Better.
 
 ---
 
 Commit early, commit often. A tip for version controlling - not for relationships
 
-Rating: 
+Rating: Untrue :0
  
 
